@@ -9,3 +9,4 @@ yfinance
 scipy
 requests
 python-dateutil
+openpyxl
