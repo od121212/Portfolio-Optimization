@@ -10,3 +10,5 @@ scipy
 requests
 python-dateutil
 openpyxl
+lxml
+html5lib
